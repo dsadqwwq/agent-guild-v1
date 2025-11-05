@@ -14,7 +14,7 @@ const tokenomicsData = [
   { name: 'Team (Vested)', value: 5 },
 ]
 const COLORS = ['#00FFFF', '#00A0A0', '#005555']
-const CONTRACT = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxpump'
+const CONTRACT = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxppump'
 
 const IconX = (props:any) => (
   <svg viewBox="0 0 24 24" aria-hidden="true" {...props}>
